@@ -32,6 +32,8 @@ Octoparse offers code-free data extraction so unlike the majority of its competi
 * What have been the major trends and innovations of this field over the last 5&ndash; 10 years?
 
 * What are the other major companies in this field?
+  
+* <p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Results
 
