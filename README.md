@@ -4,7 +4,7 @@
 
 [<img src="https://www.octoparse.com/_next/static/media/logo.e87773de.svg" width="300">](http://google.com.au/](https://www.octoparse.com/about))
 
-**Octoparse**
+**Octopus Data Inc.(2016)**
 
 Founded in 2016 by co-founders Keven Liu and Jerry Huang in Walnut Creek, California. 
 Its staff is between 51 and 200, and its current headquarters are in the San Francisco Bay Area. 
