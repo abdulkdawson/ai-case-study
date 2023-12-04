@@ -2,11 +2,12 @@
 
 ## Overview and Origin
 
-** Octoparse **
+[<img src="https://www.octoparse.com/_next/static/media/logo.e87773de.svg">](http://google.com.au/](https://www.octoparse.com/about))
 
-* Founded in 2016
+**Octoparse**
 
-* Who are the founders of the company?
+Founded in 2016 by co-founders Keven Liu and Jerry Huang in Walnut Creek, California. With a staff of between 11-50 people
+
 
 * How did the idea for the company (or project) come about?
 
