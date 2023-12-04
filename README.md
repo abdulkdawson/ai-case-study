@@ -13,15 +13,15 @@ Octopus Data Inc. is a software company that collects data from static and dynam
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+The company is Venture Capital-Backed in the later stage (Series B)	with its most recent funding amount of $15.4M	coming on March 15, 2021.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+The process of scraping data from web pages can, however, not always be smooth. You might face many challenges while extracting data, such as IP blocking and CAPTCHA. Platform owners use such methods for anti-web-scraping, which can hinder you from getting data. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Octoparse offers code-free data extraction so unlike the majority of its competitors, Octoparse does not require prior technical knowledge. It also allows you to scrape data with modern visual design and automatically scrapes the data from the website(s) along with the SaaS Web-Data platform feature. It us unclear if Octoparse possesses any unfair advantages. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
