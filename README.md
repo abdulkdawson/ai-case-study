@@ -1,6 +1,4 @@
-# ai-case-study
-
-# A Module 1 Challenge: ai-case-study
+# H1 Module 1 Challenge: ai-case-study
 
 ## Overview and Origin
 
