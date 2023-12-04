@@ -6,8 +6,10 @@
 
 **Octoparse**
 
-Founded in 2016 by co-founders Keven Liu and Jerry Huang in Walnut Creek, California. With a staff of between 11-50 people
+Founded in 2016 by co-founders Keven Liu and Jerry Huang in Walnut Creek, California. 
+Its staff is between 51 and 200, and its current headquarters are in the San Francisco Bay Area. 
 
+Octopus Data Inc. is a software company that collects data from static and dynamic websites. Their product, Octoparse, is a visual web data extraction software that simulates human operation to interact with web pages. You can use the point-&-click UI to easily bulk extract web data from web pages (including those using Ajax, JS, etc.), and there are various export formats of your choice like CSV, Excel, HTML, TXT, and database (MySQL, SQL Server, and Oracle). Octoparse’s cloud service (available in paid editions) can extract and store large amounts of data to meet large-scale extraction needs.
 
 * How did the idea for the company (or project) come about?
 
