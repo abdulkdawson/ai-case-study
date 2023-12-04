@@ -1,10 +1,10 @@
-# H1 Module 1 Challenge: ai-case-study
+# Module 1 Challenge: ai-case-study
 
 ## Overview and Origin
 
-* Name of company
+* Octoparse
 
-* When was the company incorporated?
+* Founded in 2016
 
 * Who are the founders of the company?
 
