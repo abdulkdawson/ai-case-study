@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-[<img src="https://www.octoparse.com/_next/static/media/logo.e87773de.svg">](http://google.com.au/](https://www.octoparse.com/about))
+[<img src="https://www.octoparse.com/_next/static/media/logo.e87773de.svg" style="width:200px;>](http://google.com.au/](https://www.octoparse.com/about))
 
 **Octoparse**
 
