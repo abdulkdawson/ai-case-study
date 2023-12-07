@@ -40,10 +40,9 @@ As a company, Octoparse's product has had a major impact on several industries, 
 
 Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Software Market worldwide. 
 
-* How is your company performing relative to competitors in the same field?
-* 
+###Customer Reviews
   >"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements."
-* 
+ 
 
 ## Recommendations
 
