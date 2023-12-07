@@ -58,5 +58,10 @@ Octoparse is a great solution for those looking to scrap data but have little to
 
 ## Addendum *(Sources)*
 
+[Crunchbase: Octoparse]([https://www.octoparse.com/](https://www.crunchbase.com/organization/octopus-data-inc)https://www.crunchbase.com/organization/octopus-data-inc)
+
+[Octoparse Blog](https://www.octoparse.com/](https://www.octoparse.com/blog)https://www.octoparse.com/blog)
+
+
 
 
