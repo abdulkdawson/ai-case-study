@@ -17,7 +17,7 @@ The company is Venture Capital-Backed in the later stage (Series B)	with its mos
 
 ## Business Activities
 
-According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries. The process of scraping data from web pages can, however, not always be smooth. You might face many challenges while extracting data, such as IP blocking and CAPTCHA. Platform owners use such methods for anti-web-scraping, which can hinder you from getting data. 
+According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries. The process of scraping data from web pages can, however, not always be smooth. You might face many challenges while extracting data, such as IP blocking and [CAPTCHA](http://www.captcha.net/). Platform owners use such methods for anti-web-scraping, which can hinder you from getting data. 
 
 Octoparse offers code-free data extraction so unlike the majority of its competitors, Octoparse does not require prior technical knowledge. It also allows you to scrape data with modern visual design and automatically scrapes the data from the website(s) along with the SaaS Web-Data platform feature. It is unclear if Octoparse possesses any unfair advantages. 
 
