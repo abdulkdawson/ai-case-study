@@ -1,6 +1,6 @@
-# Module 1 Challenge: ai-case-study
+[# Module 1 Challenge: ai-case-study](docs/CONTRIBUTING.md)
 
-./## Overview and Origin./
+## Overview and Origin
 
 [<img src="https://www.octoparse.com/_next/static/media/logo.e87773de.svg" width="300">](http://google.com.au/](https://www.octoparse.com/about))
 
@@ -15,8 +15,7 @@ Octopus Data Inc. is a software company that collects data from static and dynam
 
 The company is Venture Capital-Backed in the later stage (Series B)	with its most recent funding amount of $15.4M	coming on March 15, 2021.
 
-## Business Activities
-
+##Business Activities
 
 According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries. The process of scraping data from web pages can, however, not always be smooth. You might face many challenges while extracting data, such as IP blocking and CAPTCHA. Platform owners use such methods for anti-web-scraping, which can hinder you from getting data. 
 
@@ -25,14 +24,14 @@ Octoparse offers code-free data extraction so unlike the majority of its competi
 >"Octoparse enables you to scrape these websites by rotating anonymous HTTP proxy servers. In Cloud Extraction, Octoparse applies lots of 3rd party proxies for automatic IP rotation. For Local Extraction, you can add a list of external proxy addresses manually and configure them for automatic rotation."
 
 
-* <p align="right"> <a href="#top">Back to top</a> </p>
+<p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Landscape 
 
-Octoparse is a major player in the Web Scraping Software market which sits within the Data Engineering industry. Over the last decade, numerous innovations and trends have contributed to the rise of Data Engineering. 10 years ago, there was a demand for increased analytical abilities, which required improved data management and processing. Companies would be forced to make huge investments in order to provide data scientists with the data and processing that they required. This led to the rise of open-source software frameworks such as Hadoop. Years later, there was the rise and adoption of cloud data warehouses (CDWs)like Amazon Redshift, the first widely adopted cloud data warehouse. Now, companies like Facebook, Netflix, and Google are leading the charge in data engineering. 
+Octoparse is a major player in the web scraping software market, which is a part of the data engineering industry. Over the past decade, various innovations and trends have contributed to the growth of data engineering. Ten years ago, there was a need for enhanced analytical abilities, which required better data management and processing. Companies had to invest significantly to provide data scientists with the necessary data and processing capabilities. This led to the emergence of open-source software frameworks like Hadoop. Later, cloud data warehouses (CDWs) like Amazon Redshift became popular and widely adopted. Today, companies like [Meta](https://www.meta.com/), [Netflix](https://www.netflix.com/), and [Google](https://www.google.com/) are leading the way in data engineering.
 
   
-* <p align="right"> <a href="#top">Back to top</a> </p>
+<p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Results
 
@@ -46,7 +45,7 @@ Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Softwa
 
 >*"Octoparse is a web scraping tool for those without coding experience. I am not a technician and I've tried some tools to help me with scraping project. Among these tools, Octoparse is the most affordable and there's no much limitation on the free version."*
  
-* <p align="right"> <a href="#top">Back to top</a> </p>
+<p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Recommendations
 
@@ -55,7 +54,7 @@ the cloud-based software does not perform as it does on a Windows machine. This 
 
 Octoparse is a great solution for those looking to scrap data but have little to no coding experience. I would recommend doing your research because several Web-scrapping manufactures offer similar products at a lower cost. 
 
-* <p align="right"> <a href="#top">Back to top</a> </p>
+<p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Addendum *(Sources)*
 
