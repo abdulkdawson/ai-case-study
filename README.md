@@ -39,10 +39,10 @@ As a company, Octoparse's product has had a major impact on several industries, 
 Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Software Market worldwide. 
 
 ### Customer Reviews
->"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements."
+>*"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements.*"
 
-> #### A good solution for web scraping
->"Octoparse is a web scraping tool for those without coding experience. I am not a technician and I've tried some tools to help me with scraping project. Among these tools, Octoparse is the most affordable and there's no much limitation on the free version."
+
+>*"Octoparse is a web scraping tool for those without coding experience. I am not a technician and I've tried some tools to help me with scraping project. Among these tools, Octoparse is the most affordable and there's no much limitation on the free version."*
  
 
 ## Recommendations
