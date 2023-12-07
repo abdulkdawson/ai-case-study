@@ -21,27 +21,27 @@ The process of scraping data from web pages can, however, not always be smooth. 
 
 According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries.
 
-Octoparse offers code-free data extraction so unlike the majority of its competitors, Octoparse does not require prior technical knowledge. It also allows you to scrape data with modern visual design and automatically scrapes the data from the website(s) along with the SaaS Web-Data platform feature. It us unclear if Octoparse possesses any unfair advantages. 
+Octoparse offers code-free data extraction so unlike the majority of its competitors, Octoparse does not require prior technical knowledge. It also allows you to scrape data with modern visual design and automatically scrapes the data from the website(s) along with the SaaS Web-Data platform feature. It is unclear if Octoparse possesses any unfair advantages. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape <a href="#top">Back to top</a>
 
-* What field is the company in?
+Octoparse is a major player in the Web Scraping Software market which sits within the Data Engineering industry. Over the last decade, numerous innovations and trends have contributed to the rise of Data Engineering. 10 years ago, there was a demand for increased analytical abilities, which required improved data management and processing. Companies would be forced to make huge investments in order to provide data scientists with the data and processing that they required. This led to the rise of open-source software frameworks such as Hadoop. Years later, there was the rise and adoption of cloud data warehouses (CDWs)like Amazon Redshift, the first widely adopted cloud data warehouse. Now, companies like Facebook, Netflix, and Google are leading the charge in data engineering. 
 
-* What have been the major trends and innovations of this field over the last 5&ndash; 10 years?
 
-* What are the other major companies in this field?
+
   
 * <p align="right"> <a href="#top">Back to top</a> </p>
 
 ## Results
 
-* What has been the business impact of this company so far?
+As a company, Octoparse's product has had a major impact on several industries, including Law, E-Commerce, Media, and tourism, to name a few. Big data has become a fast-growing trend in today’s economy, and the demand for data extraction tools like Octoparse is only increasing. Analytics tools integrated with Web Scraping Software have become indispensable, translating data into actionable strategies.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+Octoparse sits in the top 10 of the largest manufacturer of Web Scraping Software Market worldwide. 
 
 * How is your company performing relative to competitors in the same field?
+* 
 
 ## Recommendations
 
