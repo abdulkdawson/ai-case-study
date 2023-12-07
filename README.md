@@ -15,7 +15,7 @@ Octopus Data Inc. is a software company that collects data from static and dynam
 
 The company is Venture Capital-Backed in the later stage (Series B)	with its most recent funding amount of $15.4M	coming on March 15, 2021.
 
-# [Business Activities](docs/CONTRIBUTING.md)
+## [Business Activities](docs/CONTRIBUTING.md)
 
 According to Octoparse, their target customers are eCommerce business owners, researchers, and marketers. From Price monitoring in E-commerce to scraping search results for paper research, and Lead generation are just a few examples of how data scraping is used in some industries. The process of scraping data from web pages can, however, not always be smooth. You might face many challenges while extracting data, such as IP blocking and CAPTCHA. Platform owners use such methods for anti-web-scraping, which can hinder you from getting data. 
 
@@ -26,7 +26,7 @@ Octoparse offers code-free data extraction so unlike the majority of its competi
 
 <p align="right"> <a href="#top">Back to top</a> </p>
 
-# [Landscape](docs/CONTRIBUTING.md)
+## [Landscape](docs/CONTRIBUTING.md)
 
 
 Octoparse is a major player in the web scraping software market, which is a part of the data engineering industry. Over the past decade, various innovations and trends have contributed to the growth of data engineering. Ten years ago, there was a need for enhanced analytical abilities, which required better data management and processing. Companies had to invest significantly to provide data scientists with the necessary data and processing capabilities. This led to the emergence of open-source software frameworks like Hadoop. Later, cloud data warehouses (CDWs) like Amazon Redshift became popular and widely adopted. Today, companies like [Meta](https://www.meta.com/), [Netflix](https://www.netflix.com/), and [Google](https://www.google.com/) are leading the way in data engineering.
@@ -34,7 +34,7 @@ Octoparse is a major player in the web scraping software market, which is a part
   
 <p align="right"> <a href="#top">Back to top</a> </p>
 
-# [Results](docs/CONTRIBUTING.md)
+## [Results](docs/CONTRIBUTING.md)
 
 As a company, Octoparse's product has had a major impact on several industries, including Law, E-Commerce, Media, and tourism, to name a few. Big data has become a fast-growing trend in today’s economy, and the demand for data extraction tools like Octoparse is only increasing. Analytics tools integrated with Web Scraping Software have become indispensable, translating data into actionable strategies.
 
@@ -49,7 +49,7 @@ Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Softwa
  
 <p align="right"> <a href="#top">Back to top</a> </p>
 
-## Recommendations
+## [Customer Reviews](docs/CONTRIBUTING.md)
 
 The company should consider making the product suitable for all environment use cases, such as MacOS and Linux. You can download the scrapper to Mac but according to Octoparse users 
 the cloud-based software does not perform as it does on a Windows machine. This solution could have a huge impact on the business due to that fact that there will be less limitation for users who work in non-Windows environments.
@@ -58,7 +58,7 @@ Octoparse is a great solution for those looking to scrap data but have little to
 
 <p align="right"> <a href="#top">Back to top</a> </p>
 
-## Addendum *(Sources)*
+## [Addendum *(Sources)*](docs/CONTRIBUTING.md)
 
 *[Crunchbase: Octoparse](https://www.octoparse.com/](https://www.crunchbase.com/organization/octopus-data-inc)https://www.crunchbase.com/organization/octopus-data-inc)* 
 
