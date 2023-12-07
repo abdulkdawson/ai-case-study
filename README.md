@@ -64,15 +64,16 @@ Octoparse is a great solution for those looking to scrap data but have little to
 
 *[Octoparse Blog](https://www.octoparse.com/](https://www.octoparse.com/blog)https://www.octoparse.com/blog)*
 
-[Seattle Data Guy: a decade in data engineering...](https://seattledataguy.substack.com/p/a-decade-in-data-engineering-what?utm_campaign=post&utm_medium=web)
+*[Seattle Data Guy: a decade in data engineering...](https://seattledataguy.substack.com/p/a-decade-in-data-engineering-what?utm_campaign=post&utm_medium=web)*
 
 *[Stack Exchange](https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format)*
 
 *[UpWork](https://www.upwork.com/resources/best-web-scraper)*
+*[Trust Pilot: Octoparse Reviews](https://www.trustpilot.com/reviews/5d5e6160f018690bd05232af)*
 
 *[Trust Radius: Pros & Cons of Octoparse](https://www.trustradius.com/products/octoparse/reviews?qs=pros-and-cons#comparisons)*
 
-[*Linkedin Web scraping market and trends](https://www.linkedin.com/pulse/web-scraping-software-market-size-trends-future-gqtmf/)*
+*[Linkedin Web scraping market and trends](https://www.linkedin.com/pulse/web-scraping-software-market-size-trends-future-gqtmf/)*
 
 
 
