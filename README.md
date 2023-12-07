@@ -25,11 +25,9 @@ Octoparse offers code-free data extraction so unlike the majority of its competi
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape <a href="#top">Back to top</a>
+## Landscape 
 
 Octoparse is a major player in the Web Scraping Software market which sits within the Data Engineering industry. Over the last decade, numerous innovations and trends have contributed to the rise of Data Engineering. 10 years ago, there was a demand for increased analytical abilities, which required improved data management and processing. Companies would be forced to make huge investments in order to provide data scientists with the data and processing that they required. This led to the rise of open-source software frameworks such as Hadoop. Years later, there was the rise and adoption of cloud data warehouses (CDWs)like Amazon Redshift, the first widely adopted cloud data warehouse. Now, companies like Facebook, Netflix, and Google are leading the charge in data engineering. 
-
-
 
   
 * <p align="right"> <a href="#top">Back to top</a> </p>
@@ -40,7 +38,7 @@ As a company, Octoparse's product has had a major impact on several industries, 
 
 Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Software Market worldwide. 
 
-###Customer Reviews
+### Customer Reviews
   >"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements."
  
 
