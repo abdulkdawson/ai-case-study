@@ -13,8 +13,6 @@ Its staff is between 51 and 200, and its current headquarters are in the San Fra
 
 Octopus Data Inc. is a software company that collects data from static and dynamic websites. Their product, Octoparse, is a visual web data extraction software that simulates human operation to interact with web pages. You can use the point-&-click UI to easily bulk extract web data from web pages (including those using Ajax, JS, etc.), and there are various export formats of your choice like CSV, Excel, HTML, TXT, and database (MySQL, SQL Server, and Oracle). Octoparse’s cloud service (available in paid editions) can extract and store large amounts of data to meet large-scale extraction needs.
 
-* How did the idea for the company (or project) come about?
-
 The company is Venture Capital-Backed in the later stage (Series B)	with its most recent funding amount of $15.4M	coming on March 15, 2021.
 
 ## Business Activities
@@ -40,9 +38,11 @@ Octoparse is a major player in the Web Scraping Software market which sits withi
 
 As a company, Octoparse's product has had a major impact on several industries, including Law, E-Commerce, Media, and tourism, to name a few. Big data has become a fast-growing trend in today’s economy, and the demand for data extraction tools like Octoparse is only increasing. Analytics tools integrated with Web Scraping Software have become indispensable, translating data into actionable strategies.
 
-Octoparse sits in the top 10 of the largest manufacturer of Web Scraping Software Market worldwide. 
+Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Software Market worldwide. 
 
 * How is your company performing relative to competitors in the same field?
+* 
+  >"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements."
 * 
 
 ## Recommendations
