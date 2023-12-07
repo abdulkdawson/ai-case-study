@@ -40,7 +40,7 @@ As a company, Octoparse's product has had a major impact on several industries, 
 Octoparse sits in the top 10 of the largest manufacturers of Web Scraping Software Market worldwide. 
 
 ### Customer Reviews
->*"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements.*" #1f6feb
+>*"Very user-friendly design. I can create the scraper for any website I want and design every detail based on my requirements."* #1f6feb
 
 
 >*"Octoparse is a web scraping tool for those without coding experience. I am not a technician and I've tried some tools to help me with scraping project. Among these tools, Octoparse is the most affordable and there's no much limitation on the free version."*
@@ -58,9 +58,19 @@ Octoparse is a great solution for those looking to scrap data but have little to
 
 ## Addendum *(Sources)*
 
-[Crunchbase: Octoparse]([https://www.octoparse.com/](https://www.crunchbase.com/organization/octopus-data-inc)https://www.crunchbase.com/organization/octopus-data-inc)
+*[Crunchbase: Octoparse](https://www.octoparse.com/](https://www.crunchbase.com/organization/octopus-data-inc)https://www.crunchbase.com/organization/octopus-data-inc)* 
 
-[Octoparse Blog](https://www.octoparse.com/](https://www.octoparse.com/blog)https://www.octoparse.com/blog)
+*[Octoparse Blog](https://www.octoparse.com/](https://www.octoparse.com/blog)https://www.octoparse.com/blog)*
+
+[Seattle Data Guy: a decade in data engineering...](https://seattledataguy.substack.com/p/a-decade-in-data-engineering-what?utm_campaign=post&utm_medium=web)
+
+*[Stack Exchange](https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format)*
+
+*[UpWork](https://www.upwork.com/resources/best-web-scraper)*
+
+*[Trust Radius: Pros & Cons of Octoparse](https://www.trustradius.com/products/octoparse/reviews?qs=pros-and-cons#comparisons)*
+
+[*Linkedin Web scraping market and trends](https://www.linkedin.com/pulse/web-scraping-software-market-size-trends-future-gqtmf/)*
 
 
 
