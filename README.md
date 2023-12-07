@@ -30,9 +30,6 @@ Octoparse offers code-free data extraction so unlike the majority of its competi
 
 Octoparse is a major player in the web scraping software market, which is a part of the data engineering industry. Over the past decade, various innovations and trends have contributed to the growth of data engineering. Ten years ago, there was a need for enhanced analytical abilities, which required better data management and processing. Companies had to invest significantly to provide data scientists with the necessary data and processing capabilities. This led to the emergence of open-source software frameworks like Hadoop. Later, cloud data warehouses (CDWs) like Amazon Redshift became popular and widely adopted. Today, companies like [Meta](https://www.meta.com/), [Netflix](https://www.netflix.com/), and [Google](https://www.google.com/) are leading the way in data engineering.
 
-[<img src="[https://www.octoparse.com/_next/static/media/logo.e87773de.svg](https://www.researchnester.com//admin/upload_images/Web%20Scraping%20Software%20Market.webp)"]
-
-
   
 <p align="right"> <a href="#top">Back to top</a> </p>
 
